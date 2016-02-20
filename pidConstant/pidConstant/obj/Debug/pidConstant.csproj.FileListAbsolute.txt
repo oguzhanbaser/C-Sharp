@@ -1,0 +1,13 @@
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\bin\Debug\pidConstant.exe.config
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\bin\Debug\pidConstant.exe
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\bin\Debug\pidConstant.pdb
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.csprojResolveAssemblyReference.cache
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.Form1.resources
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.Properties.Resources.resources
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.csproj.GenerateResource.Cache
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.exe
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.pdb
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.sensors.resources
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.constant.resources
+c:\users\baser_000\documents\visual studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.graphics.resources
+C:\Users\baser_000\Documents\Visual Studio 2015\Projects\pidConstant\pidConstant\obj\Debug\pidConstant.control.resources
