@@ -1,0 +1,9 @@
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\bin\Debug\tcpClient.exe.config
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\bin\Debug\tcpClient.exe
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\bin\Debug\tcpClient.pdb
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\obj\Debug\tcpClient.csprojResolveAssemblyReference.cache
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\obj\Debug\tcpClient.Form1.resources
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\obj\Debug\tcpClient.Properties.Resources.resources
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\obj\Debug\tcpClient.csproj.GenerateResource.Cache
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\obj\Debug\tcpClient.exe
+c:\users\baser\documents\visual studio 2013\Projects\tcpClient\tcpClient\obj\Debug\tcpClient.pdb
